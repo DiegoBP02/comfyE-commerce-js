@@ -16,4 +16,5 @@ Página no GitHub Pages: https://diegobp02.github.io/comfyE-commerce-js/products
 ![image](https://user-images.githubusercontent.com/103163622/186071719-76c05a34-fdae-483b-826d-b3911c1b1d3c.png)
 ![image](https://user-images.githubusercontent.com/103163622/186071773-010fa225-db65-4bf0-9187-78ec15b27c4a.png)
 ![image](https://user-images.githubusercontent.com/103163622/186071836-4fa8c37e-4e28-41d0-813c-5d05067faaa3.png)
+![image](https://user-images.githubusercontent.com/103163622/186072219-0f4f23f5-40bf-4d09-a8de-cd90cadc4f1d.png)
 ![image](https://user-images.githubusercontent.com/103163622/186071879-9baa3709-1cfd-4e6f-80e0-498f73338a8a.png)
