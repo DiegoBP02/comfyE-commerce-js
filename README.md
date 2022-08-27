@@ -1,4 +1,4 @@
-Estudando JavaScript, projeto final do curso do John Smigal de JavaScript.
+Estudando JavaScript, projeto final do curso do John Smilga de JavaScript.
 Site de um e-commerce com as seguintes funcionalidades:
 - Filtrar produtos pela companhia, preço e pesquisa
 - Há uma página individual para cada produto, com a descrição do mesmo e suas cores
